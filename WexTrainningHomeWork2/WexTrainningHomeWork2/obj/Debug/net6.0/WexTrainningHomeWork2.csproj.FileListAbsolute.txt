@@ -1,0 +1,15 @@
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\bin\Debug\net6.0\WexTrainningHomeWork2.exe
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\bin\Debug\net6.0\WexTrainningHomeWork2.deps.json
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\bin\Debug\net6.0\WexTrainningHomeWork2.runtimeconfig.json
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\bin\Debug\net6.0\WexTrainningHomeWork2.dll
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\bin\Debug\net6.0\ref\WexTrainningHomeWork2.dll
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\bin\Debug\net6.0\WexTrainningHomeWork2.pdb
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.csproj.AssemblyReference.cache
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.AssemblyInfoInputs.cache
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.AssemblyInfo.cs
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.dll
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\ref\WexTrainningHomeWork2.dll
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.pdb
+C:\Users\lenaschurko\source\repos\WexTrainningHomeWork2\WexTrainningHomeWork2\obj\Debug\net6.0\WexTrainningHomeWork2.genruntimeconfig.cache
