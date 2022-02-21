@@ -1,0 +1,15 @@
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\bin\Debug\net6.0\WexTrainningApplication.exe
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\bin\Debug\net6.0\WexTrainningApplication.deps.json
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\bin\Debug\net6.0\WexTrainningApplication.runtimeconfig.json
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\bin\Debug\net6.0\WexTrainningApplication.dll
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\bin\Debug\net6.0\ref\WexTrainningApplication.dll
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\bin\Debug\net6.0\WexTrainningApplication.pdb
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.csproj.AssemblyReference.cache
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.AssemblyInfoInputs.cache
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.AssemblyInfo.cs
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.csproj.CoreCompileInputs.cache
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.dll
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\ref\WexTrainningApplication.dll
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.pdb
+C:\Users\lenaschurko\source\repos\WexTrainningApplication\WexTrainningApplication\obj\Debug\net6.0\WexTrainningApplication.genruntimeconfig.cache
