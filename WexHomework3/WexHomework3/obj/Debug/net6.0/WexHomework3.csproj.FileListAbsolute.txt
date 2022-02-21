@@ -1,0 +1,15 @@
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.csproj.AssemblyReference.cache
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.AssemblyInfoInputs.cache
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.AssemblyInfo.cs
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.csproj.CoreCompileInputs.cache
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\bin\Debug\net6.0\WexHomework3.exe
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\bin\Debug\net6.0\WexHomework3.deps.json
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\bin\Debug\net6.0\WexHomework3.runtimeconfig.json
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\bin\Debug\net6.0\WexHomework3.dll
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\bin\Debug\net6.0\ref\WexHomework3.dll
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\bin\Debug\net6.0\WexHomework3.pdb
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.dll
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\ref\WexHomework3.dll
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.pdb
+C:\Users\lenaschurko\source\repos\WexHomework3\WexHomework3\obj\Debug\net6.0\WexHomework3.genruntimeconfig.cache
