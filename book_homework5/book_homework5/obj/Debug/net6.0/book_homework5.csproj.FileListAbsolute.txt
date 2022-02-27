@@ -1,0 +1,15 @@
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\bin\Debug\net6.0\book_homework5.exe
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\bin\Debug\net6.0\book_homework5.deps.json
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\bin\Debug\net6.0\book_homework5.runtimeconfig.json
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\bin\Debug\net6.0\book_homework5.dll
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\bin\Debug\net6.0\ref\book_homework5.dll
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\bin\Debug\net6.0\book_homework5.pdb
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.csproj.AssemblyReference.cache
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.AssemblyInfoInputs.cache
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.AssemblyInfo.cs
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.csproj.CoreCompileInputs.cache
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.dll
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\ref\book_homework5.dll
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.pdb
+C:\Users\lenaschurko\source\HWS\book_homework5\book_homework5\obj\Debug\net6.0\book_homework5.genruntimeconfig.cache
