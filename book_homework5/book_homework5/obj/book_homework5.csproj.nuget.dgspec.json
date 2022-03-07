@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenaschurko\\source\\HWS\\book_homework5\\book_homework5\\book_homework5.csproj": {}
+    "C:\\Users\\lenaschurko\\source\\repos\\lshchurko\\book_homework5\\book_homework5\\book_homework5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenaschurko\\source\\HWS\\book_homework5\\book_homework5\\book_homework5.csproj": {
+    "C:\\Users\\lenaschurko\\source\\repos\\lshchurko\\book_homework5\\book_homework5\\book_homework5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenaschurko\\source\\HWS\\book_homework5\\book_homework5\\book_homework5.csproj",
+        "projectUniqueName": "C:\\Users\\lenaschurko\\source\\repos\\lshchurko\\book_homework5\\book_homework5\\book_homework5.csproj",
         "projectName": "book_homework5",
-        "projectPath": "C:\\Users\\lenaschurko\\source\\HWS\\book_homework5\\book_homework5\\book_homework5.csproj",
+        "projectPath": "C:\\Users\\lenaschurko\\source\\repos\\lshchurko\\book_homework5\\book_homework5\\book_homework5.csproj",
         "packagesPath": "C:\\Users\\lenaschurko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenaschurko\\source\\HWS\\book_homework5\\book_homework5\\obj\\",
+        "outputPath": "C:\\Users\\lenaschurko\\source\\repos\\lshchurko\\book_homework5\\book_homework5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenaschurko\\AppData\\Roaming\\NuGet\\NuGet.Config",

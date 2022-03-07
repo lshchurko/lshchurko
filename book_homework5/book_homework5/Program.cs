@@ -7,5 +7,5 @@ book_homework5.Book book5 = new book_homework5.Book ( "ABC",88, "09dneuie34");
 book_homework5.Book[] books = { book1, book2, book3, book4, book5 };
 foreach (book_homework5.Book item in books)
 {
-    Console.WriteLine("Book title {0}, Quantity of pages {1}, Id Number {2}",item.GetTitle(),item.GetPages(), item.GetId());
+    item.DisplayBooks();
 }

@@ -8,30 +8,14 @@ namespace book_homework5
 {
     class Book
     {
-       string Title;
-       int Pages;
-       string Indentificator;
+       public string Title { get; }
+       public int Pages { get; }
+       public string Indentificator { get; }
 
-       public Book (string title, int pages, string indentificator)
+     public void DisplayBooks ()
         {
-            Title = title;
-            Pages = pages;
-            Indentificator = indentificator;
+            Console.WriteLine("Book title {0}, Quantity of pages {1}, Id Number {2}", Title, Pages, Indentificator);
         }
-
-        public string GetTitle()
-        {
-            return Title;
-        }
-
-        public int GetPages()
-        {
-            return Pages;
-        }
-
-        public string GetId()
-        {
-            return Indentificator;
-        }
+       
     }
 }
