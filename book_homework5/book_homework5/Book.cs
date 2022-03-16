@@ -2,13 +2,13 @@
 {
     class Book
     {
-       public string title { get; set; }
-       public int pages { get; set;  }
-       public string indentificator { get; set; }
+       public string Title { get; set; }
+       public int Pages { get; set;  }
+       public string Indentificator { get; set; }
 
-       public void displayBooks()
+       public void DisplayBook()
         {
-            Console.WriteLine("Book title {0}, Quantity of pages {1}, Id Number {2}", title, pages, indentificator);
+            Console.WriteLine("Book title {0}, Quantity of pages {1}, Id Number {2}", Title, Pages, Indentificator);
         }
     }
 }
