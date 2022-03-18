@@ -1,10 +1,26 @@
-﻿namespace book_homework5
+﻿using System;
+
+namespace book_homework5
 {
     class Book
     {
-       public string Title { get; set; }
+        // It's way with constructor
+        public string Title { get; set; }
        public int Pages { get; set;  }
        public string Indentificator { get; set; }
+       
+       public Book(string title, int pages, string id)
+       {
+           Title = title;
+           Pages = pages;
+           Indentificator = id;
+       }
+       
+       // Without constructor
+       // public string Title { get; set; }
+       // public int Pages { get; set;  }
+       // public string Indentificator { get; set; }
+       
 
        public void DisplayBook()
         {
