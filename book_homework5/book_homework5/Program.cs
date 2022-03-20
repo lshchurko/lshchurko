@@ -1,12 +1,20 @@
-﻿book_homework5.Book book1 = new book_homework5.Book ("Neznajka",167,"123ADF125av4") ;
-book_homework5.Book book2 = new book_homework5.Book ( "Vij",58,"dvdffv12ds" );
-book_homework5.Book book3 = new book_homework5.Book ("Tom Sojer", 132, "987654dvd" );
-book_homework5.Book book4 = new book_homework5.Book ("Dinka", 334,"85jfuie45" );
-book_homework5.Book book5 = new book_homework5.Book ( "ABC",88, "09dneuie34");
+﻿using book_homework5;
 
-book_homework5.Book[] books = { book1, book2, book3, book4, book5 };
-
-foreach (book_homework5.Book item in books)
+public class Program
 {
-    item.DisplayBook();
+    static void Main(string[] args)
+    {
+        Book book1 = new() { Title = "Neznajka", Pages = 167, Indentificator = "123ADF125av4" };
+        Book book2 = new() { Title = "Vij", Pages = 58, Indentificator = "dvdffv12ds" };
+        Book book3 = new() { Title = "Tom Sojer", Pages = 132, Indentificator = "987654dvd" };
+        Book book4 = new() { Title = "Dinka", Pages = 334, Indentificator = "85jfuie45" };
+        Book book5 = new() { Title = "ABC", Pages = 88, Indentificator = "09dneuie34" };
+
+        Book[] books = { book1, book2, book3, book4, book5 };
+
+        foreach (Book item in books)
+        {
+            item.DisplayBook();
+        }
+    }
 }

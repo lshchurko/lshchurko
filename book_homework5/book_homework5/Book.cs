@@ -1,4 +1,6 @@
-﻿namespace book_homework5
+﻿using System;
+
+namespace book_homework5
 {
     class Book
     {
